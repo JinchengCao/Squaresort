@@ -13,4 +13,3 @@ Fig 2. Running time vs. m, n 3D plot for Namecomparator
 
 Fig 3. Running time vs. m, n 3D plot for PayGradecomparator
 
-Fig 4. Running time vs. m, n 3D plot for PayGradecomparator
