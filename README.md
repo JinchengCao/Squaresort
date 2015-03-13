@@ -1,4 +1,6 @@
 # Squaresort
+We define an m × n array A to be "sorted" if, for all row numbers i < j < m and all column numbers k < l < n, it is the case that A[i][k] ≤ A[j][k] and A[i][k] ≤ A[i][l].
+
 In my squaresort method, I used three loops to sort each row in an ascending order. 
 
 Big-O analysis
